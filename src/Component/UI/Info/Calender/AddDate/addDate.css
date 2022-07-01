@@ -1,0 +1,10 @@
+.input-Date{
+        width: 100%;
+        border-top: 1px solid  #e5e5e5;
+        border-bottom: 0;
+        border-right: 0;
+        border-left: 0;
+}
+.add-date-btn:focus{
+        box-shadow: none;
+}
